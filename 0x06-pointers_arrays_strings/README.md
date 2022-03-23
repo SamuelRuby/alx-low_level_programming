@@ -1,5 +1,3 @@
-File: .gitignore --- to ignore pushing all the main.c files, compiled files and _putchar.c
-
 File: 0-strcat.c --- function that concatenates two strings. Prototype: char *_strcat(char *dest, char *src);
 
 File: 1-strncat.c --- function that concatenates two strings. Prototype: char *_strncat(char *dest, char *src, int n);
