@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * factorial - it returns the factorial of a given number
- * @n:integer 
- * Return: int
+ * factorial - factorial n
+ * @n: integer arams
+ * Return: recursion
  */
 
 int factorial(int n)
@@ -12,7 +12,7 @@ int factorial(int n)
 	{
 		return (-1);
 	}
-	if (n == 1 || n == 0)
+	if (n == 1)
 	{
 		return (1);
 	}
