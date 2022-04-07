@@ -1,40 +1,32 @@
-This project is the first C project as part of the ALX School curriculum, and covers the very basics of compilation and C
-
-#Functions and Nested Loops
+# ALX Low Level Programming In C
 ## Description
-Functions and nested loops basics in C
-- [file 0 - 0-putchar.c](./0-putchar.c) - It prints out putchar
+Programming in C
+## Table of contents
+Directories | Description
+----------- | -----------
+[0x00-hello_world](./0x00-hello_world) | Introduction to the basics of C
+[0x01-variables_if_else_while](./0x01-variables_if_else_while) | Introduction to variables, if else statments and while loops in C
+[0x02-functions_nested_loops](./0x02-functions_nested_loops) | Introduction to functions and nested loops in C
+[0x03-debugging](./0x03-debugging) | Introduction to debugging in C
+[0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops) | Indepth on functions and nested loops in C
+[0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings) | Introduction to pointers, arrays and strings in C
+[0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings) | pointers, arrays and strings in C
+[0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings) | more pointers arrays and strings in C
+[0x08-recursion](./0x08-recursion) | Recursions in C
+[0x09-static_libs](./0x09-static_libraries) | Static libraries
+[0x0A-argc_argv](./0x0A-argc_argv) | Introduction to main arguments
+[0x0B-malloc_free](./0x0B-malloc_free) | Introduction to Dynamic memory allocation in C
+[0x0C-more_malloc_free](./0x0C-more_malloc_free) | Dynamic memory allocation in C indepth (edited) 
+New
 
-- [File 1-alphabet.c](./1-alphabet.c) is a function that prints the alphabet, in lowercase, followed by a new line.
-
-- [File 2-print_alphabet_x10.c](./2-print_alphabet_x10.c) is a function that prints 10 times the alphabet, in lowercase, followed by a new line.
-
-- [File 3-islower.c](./3-islower.c)is a function that checks for lowercase character.
-
-- [File 4-isalpha.c](./4-isalpha.c) is a function that checks for alphabetic character.
-
-- [File 5-sign.c](./5-sign.c) is a function that prints the sign of a number.
-
-- [File 6-abs.c](./6-abs.c) is a function that computes the absolute value of an integer.
-
-- [File 7-print_last_digit.c](./7-print_last_digit.c) is a function that prints the last digit of a number.
-
-- [File 8-24_hours.c](./8-24_hours.c) is a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
-
-- [File 10-add.c](./10-add.c) is a function that adds two integers and returns the result.
-
-- [File 11-print_to_98.c](./11-print_to_98.c) is a function that prints all natural numbers from n to 98, followed by a new line.
-
-- [File 100-times_table.c](./100-times_table.c) is a function that prints the n times table, starting with 0.
-
-- [File 101-natural.c](./101-natural.c) is a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
-
-- [File 102-fibonacci.c](./102-fibonacci.c) is a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
-
-- [File 103-fibonacci.c](./103-fibonacci.c) is a program that finds and prints the sum of the even-valued terms of the Fibonacci suite under 4000000, followed by a new line.
-
-- [File 104-fibonacci.c](./104-fibonacci.c) is a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
-
-_putchar.c contains the _putchar() function definition.
-
-main.h is the header file containing all the function prototypes used in this project.
+Ayomide Salami  22:15
+# More Malloc and Free
+## Description
+More on memory allocation
+[File 0-malloc_checked.c](./0-malloc_checked.c) is a function that allocates memory using malloc.
+[File 1-string_nconcat.c](./1-string_nconcat.c) is a function that concatenates two strings.
+[File 2-calloc.c](./2-calloc.c) is a function that allocates memory for an array, using malloc.
+[File 3-array_range.c](./3-array_range.c) is a function that creates an array of integers.
+[File 100-realloc.c](./100-realloc.c) is a function that reallocates a memory block using malloc and free.
+[File 101-mul.c](./101-mul.c) is a program that multiplies two positive numbers.
+[File main.h](./main.h) is the header file for all the function prototypes.
