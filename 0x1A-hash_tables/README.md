@@ -9,10 +9,16 @@ Note that all dictionaries are not implemented using hash tables and there is a 
 
 If you want to test for collisions, here are some strings that collide using the djb2 algorithm:
 
-hetairas collides with mentioner
-heliotropes collides with neurospora
-depravement collides with serafins
-stylist collides with subgenera
-joyful collides with synaphea
-redescribed collides with urites
-dram collides with vivency
+- hetairas collides with mentioner
+
+- heliotropes collides with neurospora
+
+- depravement collides with serafins
+
+- stylist collides with subgenera
+
+- joyful collides with synaphea
+
+- redescribed collides with urites
+
+- dram collides with vivency
