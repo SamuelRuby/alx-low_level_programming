@@ -1,4 +1,4 @@
-# 0x0E. C - Structures, typedef
+# 0x0E - Structures, typedef
 ## Description
 Working with Structures 
 
